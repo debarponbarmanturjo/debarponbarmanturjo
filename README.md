@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Debarpon Barman 👋
 
-I am a first-year Electrical and Electronic Engineering (EEE) student with a deep focus on Computer Science (CSE). I aim to bridge the gap between hardware and software, leveraging analytical logic to build efficient applications, automation systems, and robotics.
+I am a first-year Electrical and Electronic Engineering (EEE) student with a deep focus on Computer Science. I aim to bridge the gap between hardware and software, leveraging analytical logic to build efficient applications, automation systems, and robotics.
 
 ---
 

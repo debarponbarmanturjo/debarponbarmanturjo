@@ -1,48 +1,68 @@
-<!--
-**debarponbarmanturjo/debarponbarmanturjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Debarpon Barman (Turjo) 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![CS50x Progress](https://img.shields.io/badge/CS50x-HarvardX-red?style=for-the-badge&logo=harvard)](https://cs50.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Debarpon Barman 👋
-
-I am a first-year Electrical and Electronic Engineering (EEE) student with a deep focus on Computer Science. I aim to bridge the gap between hardware and software, leveraging analytical logic to build efficient applications, automation systems, and robotics.
+Undergraduate **Electrical & Electronic Engineering (EEE)** student at **Begum Rokeya University, Rangpur (BRUR)**, bridging hardware precision, low-level programming, and software engineering.
 
 ---
 
-### 🚀 What I'm Up To Right Now
-- 🧠 **Competitive Programming:** Solving problems daily to sharpen my data structures and algorithmic logic.
-- ⚙️ **Hardware & Simulation:** Exploring circuit simulation via **LTspice** and starting hands-on development with **Arduino**.
-- 🌐 **Software & Web:** Expanding my foundational C/C++ knowledge and building out my web development skills.
+## ⚡ About Me
 
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C, C++, HTML, MATLAB (Basics) |
-| **Hardware & Simulation** | LTspice, Arduino (Incoming) |
-| **Tools & Platforms** | Git, GitHub, VS Code |
-
-### 🎯 Future Interests & Horizons
-- Full-Stack Web & Mobile App Development
-- Robotics, IoT, and Hardware Automation
-- Game Development
+- 🎓 **Education:** B.Sc. in Electrical & Electronic Engineering (15th Batch) at BRUR.
+- 💻 **CS Foundation:** Currently conquering **Harvard's CS50x** to build a rigorous computer science foundation in low-level C programming, algorithms, and data structures.
+- 🛠️ **Technical Focus:** C/C++ Systems Programming, MATLAB Simulations, Web Application Architecture, and Embedded Logic.
+- ♟️ **Beyond Code:** Member of the **BRUR Chess Club**, Futsal player, Esports Team Manager (**Team Barkandaj [BRK]**), and Content Creator.
 
 ---
 
-### 🤝 Connect with Me
-Let's collaborate or talk about anything tech-related!
+## 🚀 CS50x Journey & Track Record
 
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/debarpon-barman/) 💼
-- **Email:** debarponbarmanturjo@gmail.com 📧
-- **Coding Profiles:** [Codeforces](https://codeforces.com/profile/debarpon) 🔴 | [LeetCode](https://leetcode.com/u/debarpon/) 🟡
+| Week | Core Topic | Key Concepts | Status |
+| :---: | :--- | :--- | :---: |
+| **0** | Scratch | Algorithmic logic, abstraction, interactive design | ✅ Completed |
+| **1** | C Programming | Memory, variables, conditionals, loops (`mario.c`, `cash.c`) | ✅ Completed |
+| **2** | Arrays | Cryptography, memory layout, arrays, strings | 🔄 In Progress |
+| **3** | Algorithms | Searching, sorting algorithms, computational complexity | ⏳ Upcoming |
 
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages & Computational Tools:**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=works&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web Development & Deployment:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Version Control & Design:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vector Design](https://img.shields.io/badge/Vector_Illustration-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Debarpon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Debarpon Barman](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 🎥 **Media & Content:** Tur70
+- 📍 **Location:** Rangpur, Bangladesh
+
+> *"Building at the intersection of electrical hardware and software logic."*
 ---
